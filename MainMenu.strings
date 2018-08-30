@@ -1,0 +1,289 @@
+//
+// Movist
+//
+// Copyright 2017. Movist all rights reserved.
+//
+
+////////////////////////////////////////////////////////////////////////////////
+// Main Menu > Movist
+
+"5kV-Vb-QxS.title"  = "About Movist";
+//                          -----------
+"BOF-NM-1cW.title"          = "Preferences…";
+//                          -----------
+"2gA-ET-Mam.title"          = "Visit Website";
+"2NJ-He-KtO.title"          = "Send Feedback…";
+//                          -----------
+"NMo-om-nkz.title"          = "Services";
+//                          -----------
+"Olw-nP-bQN.title"          = "Hide Movist";
+"Vdr-fp-XzO.title"          = "Hide Others";
+"Kd2-mp-pUS.title"          = "Show All";
+//                          -----------
+"4sb-4s-VLi.title"          = "Quit Movist";
+
+////////////////////////////////////////////////////////////////////////////////
+// Main Menu > File
+
+"bib-Uj-vzu.title"  = "File";
+"Was-JA-tGl.title"          = "New Window";
+//                          -----------
+"IAo-SY-fd9.title"          = "Open File…";
+"mJe-8k-BKX.title"          = "Open URL…";
+"64v-Eg-pdt.title"          = "Open Playlist";
+"tXI-mr-wws.title"          = "Open Recent";
+//                          -----------
+"DVo-aG-piG.title"          = "Close";
+
+////////////////////////////////////////////////////////////////////////////////
+// Main Menu > Edit
+
+"W48-6f-4Dl.title"  = "Edit";
+"uRl-iY-unG.title"          = "Cut";
+"x3v-GG-iWU.title"          = "Copy";
+"gVA-U4-sdL.title"          = "Paste";
+"pa3-QI-u2k.title"          = "Delete";
+"Ruw-6m-B2m.title"          = "Select All";
+//                          -----------
+"HGN-bu-e01.title"          = "Find";
+
+////////////////////////////////////////////////////////////////////////////////
+// Main Menu > Media
+
+"UqO-xH-EGD.title"  = "Media";
+//                          = "<title>";
+//                          -----------
+//                          = "<url #>";
+//                                  = "<property #>";
+//                          = "<track #>";
+//                                  = "<property #>";
+//                          -----------
+"8VG-zW-4wb.title"          = "Add Audio Files…";
+"6M9-c0-aDI.title"          = "Add Subtitle Files…";
+//                          -----------
+"RSP-lu-I8z.title"          = "Close Media";
+
+////////////////////////////////////////////////////////////////////////////////
+// Main Menu > Video
+
+"a6x-WO-gWW.title"  = "Video";
+//   {Shared}               = "Tracks";
+//                          = "<track #>";
+//                          -----------
+//   {Shared}               = "Select Next Track";
+//   {Shared}               = "Select Previous Track";
+//                          -----------
+//                          = "<1920 x 1080 (100.0%)>";
+//                          -----------
+"Video > Enter Full Screen"         = "Enter Full Screen";
+"Video > Exit Full Screen"          = "Exit Full Screen";
+"Video > Enter Desktop Background"  = "Enter Desktop Background";
+"Video > Exit Desktop Background"   = "Exit Desktop Background";
+//                          -----------
+"yg4-IU-neA.title"          = "Half Size";
+"4yg-7s-B1O.title"          = "Actual Size";
+"ctp-tB-bNT.title"          = "Double Size";
+"UY5-Y6-a1c.title"          = "User Size";
+"m56-HS-kgn.title"          = "Fit to Screen";
+//                          -----------
+"RqF-GH-Egc.title"          = "Increase Size";
+"x5s-nd-FaU.title"          = "Decrease Size";
+"UqP-Ig-spr.title"          = "Zoom In";
+"g1E-A4-DKp.title"          = "Zoom Out";
+//                          -----------
+"NU2-M6-Ebs.title"          = "Move Zoom Left";
+"xMa-Xi-ZWh.title"          = "Move Zoom Right";
+"llJ-V5-Tde.title"          = "Move Zoom Up";
+"YnX-oO-vSz.title"          = "Move Zoom Down";
+"2W7-2w-6SZ.title"          = "Quit Zoom";
+//                          -----------
+"DId-jR-I3o.title"          = "Fill Screen";
+"hpf-er-IjJ.title"          = "Aspect Ratio";
+//                                  = "<aspect ratio #>";
+//                          -----------
+"Uve-QB-IKO.title"          = "Rotate Left";
+"qIy-fr-bAv.title"          = "Rotate Right";
+"xfc-1p-wtP.title"          = "Flip Horizontal";
+"abk-gB-dFc.title"          = "Flip Vertical";
+"Ml3-RN-wu5.title"          = "Revert Transform";
+//                          -----------
+"Sxi-LV-tlu.title"          = "Filters";
+//                                  = "<filter #>";
+//                                  -----------
+"MT4-07-aCr.title"                  = "Remove All";
+//                          -----------
+"W7q-2x-Wsj.title"          = "Save Screenshot";
+
+////////////////////////////////////////////////////////////////////////////////
+// Main Menu > Audio
+
+"wLm-hs-q6p.title"  = "Audio";
+//   {Shared}               = "Tracks";
+//                          = "<track #>";
+//                          -----------
+//   {Shared}               = "Select Next Track";
+//   {Shared}               = "Select Previous Track";
+//                          -----------
+"nlw-bs-4xB.title"          = "Sync.";
+"kQI-PG-l3R.title"          = "Pull";
+"3Vn-Oq-Bnx.title"          = "Push";
+"0aM-Qc-uAt.title"          = "Revert";
+//                          -----------
+"3HM-iA-90J.title"          = "Equalizer";
+"0JF-ha-JBt.title"                  = "Off";
+//                                  -----------
+"mkT-Jq-BKk.title"                  = "Manual";
+//                                  -----------
+"CPH-3G-e4L.title"                  = "Presets";
+//                                  = "<preset #>";
+//                          -----------
+"E4x-2t-BJQ.title"          = "Output Device";
+//                                  = "<device #>";
+//                          -----------
+"xcX-AJ-BmL.title"          = "Volume";
+"Rht-jZ-pW8.title"          = "Increase Volume";
+"7BM-oh-MMZ.title"          = "Increase Volume (Finetune)";
+"Kj1-7K-W50.title"          = "Decrease Volume";
+"pW8-2t-dnQ.title"          = "Decrease Volume (Finetune)";
+"Audio > Mute"              = "Mute";
+"Audio > Unmute"            = "Unmute";
+
+////////////////////////////////////////////////////////////////////////////////
+// Main Menu > Subtitle
+
+"bpH-J9-sWo.title"  = "Subtitle";
+//   {Shared}               = "Tracks";
+//                          = "<track #>";
+//                          -----------
+//   {Shared}               = "Select Next Track";
+//   {Shared}               = "Select Previous Track";
+//                          -----------
+"Phx-TE-K7b.title"          = "Display";
+"9nP-j6-Cid.title"          = "Style";
+//                                  = "<style #>";
+"427-V3-lUm.title"          = "Display Type";
+//                                  = "<type #>";
+//                          -----------
+"zUf-XF-OPq.title"          = "Speech";
+"lal-cJ-fEJ.title"          = "Voice";
+//                                  = "<voice #>";
+"Cmm-9P-fQY.title"          = "Volume";
+"w7p-Wf-HB0.title"                  = "Increase Volume";
+"blK-pW-zc8.title"                  = "Decrease Volume";
+"2h4-Co-jje.title"          = "Speed";
+"mbM-Ab-WHd.title"                  = "Fast";
+"YUL-rG-QdC.title"                  = "Normal";
+"Fwg-MW-BCL.title"                  = "Slow";
+//                                  -----------
+"5db-lw-xB5.title"                  = "Increase Speed";
+"Y8C-3L-dIm.title"                  = "Decrease Speed";
+//                          -----------
+"0Ir-Pi-Pkn.title"          = "Sync.";
+"dRv-hF-HgK.title"          = "Pull";
+"e0f-pR-03I.title"          = "Push";
+"vjB-uv-nKd.title"          = "Revert";
+
+////////////////////////////////////////////////////////////////////////////////
+// Main Menu > Playback
+
+"xVh-tl-AZg.title"  = "Playback";
+//                          = "<current time (fps)>";
+//                          -----------
+"Playback > Play"           = "Play";
+"Playback > Pause"          = "Pause";
+//                          -----------
+"RoS-JZ-YKy.title"          = "Beginning";
+"0Qd-kI-1hr.title"          = "End";
+//                          -----------
+"Playback > Forward %ld sec."  = "Forward %ld sec.";
+"Playback > Backward %ld sec." = "Backward %ld sec.";
+//                          -----------
+"I6v-uz-sMw.title"          = "Forward Subtitle";
+"mxg-9O-KX9.title"          = "Backward Subtitle";
+//                          -----------
+"BcL-zM-Y08.title"          = "Chapters";
+//                                  = "<chapter #>";
+"DtV-Wo-l7K.title"          = "Forward Chapter";
+"nc4-rK-BsG.title"          = "Backward Chapter";
+//                          -----------
+"Q4U-9c-1OQ.title"          = "Bookmarks";
+//                                  = "<bookmark #>
+//                                  -----------
+"i8b-RJ-pcC.title"                  = "Add Current";
+"ug0-2R-oeV.title"                  = "Edit…";
+"JNX-3l-M5m.title"          = "Forward Bookmark";
+"NPJ-dn-hah.title"          = "Backward Bookmark";
+//                          -----------
+"deb-Xv-93g.title"          = "Forward Frame";
+"E5F-s5-Ya2.title"          = "Backward Frame";
+//                          -----------
+"8aK-Eg-GnZ.title"          = "Range";
+"SL8-LZ-Boz.title"          = "Set Current to Begin";
+"zoS-NF-rif.title"          = "Set Current to End";
+"79N-Gt-IzC.title"          = "Clear";
+"M4a-J5-XAR.title"          = "Repeat";
+//                          -----------
+"PAy-Nu-Gb7.title"          = "Play Speed";
+"quk-Ob-UXV.title"          = "Increase Speed";
+"d0I-bJ-NUJ.title"          = "Decrease Speed";
+"eAh-gl-dmZ.title"          = "Revert";
+
+////////////////////////////////////////////////////////////////////////////////
+// Main Menu > Playlist
+
+"0NE-cK-yVd.title"  = "Playlist";
+//                          = "<title>";
+//                          -----------
+"gsD-jf-w7s.title"          = "Shuffle";
+"7zM-H9-rkB.title"          = "Repeat";
+"CXB-pF-1ig.title"                  = "Off";
+"ugR-Km-llc.title"                  = "All";
+"Ius-Se-W7O.title"                  = "One";
+//                                  -----------
+"z7D-kl-BTc.title"                  = "Rotate";
+//                          -----------
+"tfO-Ct-dRZ.title"          = "Options";
+"J6u-em-QpO.title"                  = "Sort By Ascending Order";
+"C7p-9e-pAW.title"                  = "Sort By Descending Order";
+//                                  -----------
+"h2F-bL-iRo.title"                  = "Add Item(s)…";
+//                          -----------
+"48I-5o-5qt.title"          = "Next";
+"r4r-bu-wve.title"          = "Previous";
+"Tf2-bu-eSf.title"          = "Show Current";
+//                          -----------
+//                          = "<item #>";
+
+////////////////////////////////////////////////////////////////////////////////
+// Main Menu > Window
+
+"Td7-aD-5lo.title"  = "Window";
+"OY7-WF-poV.title"          = "Minimize";
+"R4o-n2-Eq4.title"          = "Zoom";
+"QQr-Rv-oZq.title"          = "Keep on top of all other windows";
+//                          -----------
+"6ct-mQ-EeZ.title"          = "Control Panel";
+//   {Shared}               = "Media";
+//   {Shared}               = "Video";
+//   {Shared}               = "Audio";
+//   {Shared}               = "Subtitle";
+//   {Shared}               = "Playlist";
+//                          -----------
+"Window > Show Inspector"   = "Show Inspector";
+"Window > Hide Inspector"   = "Hide Inspector";
+//                          -----------
+"LE2-aR-0XJ.title"          = "Bring All to Front";
+
+////////////////////////////////////////////////////////////////////////////////
+// Main Menu > Help
+
+"F2S-fz-NVQ.title"  = "Help";
+"FKE-Sm-Kum.title"          = "Movist Help";
+
+////////////////////////////////////////////////////////////////////////////////
+// Shared
+
+"{Shared} > Tracks"             = "Tracks";
+
+"{Shared} > Select Next Track"      = "Select Next Track";
+"{Shared} > Select Previous Track"  = "Select Previous Track";

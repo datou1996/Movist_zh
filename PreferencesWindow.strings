@@ -1,0 +1,183 @@
+//
+// Movist
+//
+// Copyright 2017. Movist all rights reserved.
+//
+
+////////////////////////////////////////////////////////////////////////////////
+// Preferences
+
+"QvC-M9-y7g.title" = "Preferences";
+
+////////////////////////////////////////////////////////////////////////////////
+// Preferences > Tool Bar
+
+"3ba-PW-XtU.label" = "General";
+"3ba-PW-XtU.paletteLabel" = "General";
+
+"VF0-Xz-xax.label" = "Media";
+"VF0-Xz-xax.paletteLabel" = "Media";
+
+"Bfr-Eb-x6Y.label" = "Video";
+"Bfr-Eb-x6Y.paletteLabel" = "Video";
+
+"eRF-Nh-aqz.label" = "Audio";
+"eRF-Nh-aqz.paletteLabel" = "Audio";
+
+"nJC-dU-1Hc.label" = "Subtitle";
+"nJC-dU-1Hc.paletteLabel" = "Subtitle";
+
+"Ag0-g3-4Nf.label" = "Playback";
+"Ag0-g3-4Nf.paletteLabel" = "Playback";
+
+"8SN-To-Ll0.label" = "Playlist";
+"8SN-To-Ll0.paletteLabel" = "Playlist";
+
+////////////////////////////////////////////////////////////////////////////////
+// Preferences > General
+
+"GJ4-s9-yJ0.label" = "General";
+"IqD-up-Xtd.label" = "Full Screen";
+
+// Preferences > General > General
+"H3K-fD-IUm.title" = "Theme:";
+"aRg-YA-4Fb.title" =        "Dark";
+"bnR-hh-TWh.title" =        "Light";
+"5ye-ay-M1n.title" = "Transparent title-bar and controllers";
+
+"LRe-9y-jWu.title" = "Show pushpin button in title-bar";
+
+"aoR-i8-RZ2.title" = "Create new window when open file";
+"h5V-9x-h2J.title" = "Quit when last window closed";
+"eGo-iU-MSv.title" = "Restore windows (relaunch needed)";
+
+"9Sr-6k-sO6.title" = "Use up/down arrow keys to select in playlist panel";
+"I8V-Tt-4Y0.title" = "Use return/enter keys to open in playlist panel";
+"qbt-TJ-C0w.title" = "Use esc key to close control panel";
+
+"c8U-HU-3wJ.title" = "Screenshot save-path:";
+
+// Preferences > General > Full Screen
+
+"dUH-KS-bbz.title" = "Start play when enter full screen";
+"I39-g1-T3C.title" = "Pause when exit full screen";
+
+"AzE-R6-J3G.title" = "Pause & resume play when app switched";
+
+"IxN-5t-3LW.title" = "Show system time";
+"czy-gz-Fd3.title" = "Show play time";
+
+"IWS-wN-Lu3.title" = "Black out other screens";
+
+////////////////////////////////////////////////////////////////////////////////
+// Preferences > Media
+
+"IZA-MH-aKB.label" = "Open";
+
+// Preferences > Media > Open
+
+"4DR-S4-FYU.title" = "Audio-visual language:";
+"fAb-tU-6gT.title" = "Subtitle language:";
+"qOs-VL-m20.title" = "Don't use subtitle if same language audio is selected";
+"v50-Uc-Bcm.title" = "Select first subtitle if specified language not found";
+
+"YUI-Eh-sqR.title" = "Video size:";
+"rQr-oP-SnT.title" = "for windowed";
+"RaS-J2-RW0.title" = "for full screen";
+"8sR-Uk-KrT.title" = "Fill screen";
+
+"Z4T-bG-taB.title" = "Video filter:";
+
+"ZiE-R2-Bam.title" = "Audio equalizer:";
+
+"LlQ-dh-uu1.title" = "Subtitle speech speed:";
+
+"93r-zZ-WiV.title" = "Enter full screen";
+"csL-vn-v2N.title" = "Start play";
+
+////////////////////////////////////////////////////////////////////////////////
+// Preferences > Video
+
+"w2F-aU-Y6R.title" = "Use hardware accelerated decoding";
+"1kh-7U-17p.title" = "10-bit color processing:";
+
+"XWi-Bo-roh.title" = "Use 1:1 pixel matching in Retina Display";
+"OUw-Ze-yPN.title" = "Screen filling type:";
+"6A3-EC-PsZ.title" = "User size:";
+
+////////////////////////////////////////////////////////////////////////////////
+// Preferences > Audio
+
+"0mF-eG-lgZ.title" = "Use digital audio out";
+"Bqj-2l-OMc.title" = "Use extended volume (up to 4.0)";
+
+"dlH-iP-RjU.title" = "Output Device";
+"5re-ch-lGN.title" = "Channel Count";
+"uqb-Fs-scJ.title" = "Delay";
+"iOg-74-YOE.title" = "Digital-Out";
+
+"oC9-lb-DlP.title" = "Default output device:";
+
+////////////////////////////////////////////////////////////////////////////////
+// Preferences > Subtitle
+
+"AB4-1W-zro.title" = "Use embedded fonts";
+"z5R-dx-PTr.title" = "Use embedded subtitles";
+"euP-Hv-zd2.title" = "Use remote subtitles";
+"QhG-ym-BrY.title" = "Use external subtitles";
+
+"0OC-LX-9yt.title" = "Language";
+"vYr-wL-aDj.title" = "Display";
+"Wwv-YW-dbn.title" = "Speech";
+
+"oau-fJ-Q48.title" = "Display on Letter box:";
+"Fen-Vd-bqR.title" = "3D depth:";
+
+"8oy-4Q-nrT.title" = "Use fade-in/out effects";
+"wGT-ar-RZh.title" = "Support high-quality ass in Retina display";
+
+"Q82-Ce-0fr.title" = "Speech mode:";
+
+////////////////////////////////////////////////////////////////////////////////
+// Preferences > Playback
+
+"snA-ua-AdO.title" = "Backward•Forward seek:";
+"hio-wg-QlC.title" = "sec.";
+"bmC-MK-nJA.title" = "sec. (with Option key)";
+
+"o9b-mu-Lcx.title" = "Show chapters in seek slider";
+
+"1de-80-ku5.title" = "Show chapter in time tool-tip";
+"KUf-XE-BD7.title" = "Show thumbnail in time tool-tip (reopen needed)";
+
+"YaN-JK-4GS.title" = "Show thumbnails in Touch Bar (reopen needed)";
+
+////////////////////////////////////////////////////////////////////////////////
+// Preferences > Playlist
+
+"6cM-AQ-5PT.label" = "General";
+"NuW-RY-esF.label" = "Autofill";
+
+// Preferences > Playlist > General
+
+"6OB-ax-hcK.title" = "Shuffle";
+"I5o-o0-9T5.title" = "Repeat:";
+
+"3ae-ao-hI4.title" = "When media ended:";
+"2hc-Vg-XLa.title" = "When playlist ended:";
+
+"BVD-V5-BSQ.title" = "Show subtitle filenames in playlist";
+
+// Preferences > Playlist > Autofill
+
+"3Fc-Iz-NuB.title" = "Find series files when open a media file";
+"TgG-5b-2aq.title" = "Find media files in subfolders when open folders";
+
+"YVJ-WF-WTo.title" = "Find name-matched subtitle files & subtitle subfolders";
+"Aqy-7z-59w.title" = "Find all subtitle files regardless of name if there is only one media file in folder";
+
+"dcj-Cc-qXl.title" = "Keywords to ignore:";
+
+"gmP-LH-6My.title" = "Access to the container folder is needed to find series and subtitle files. Open panel for getting access will be appeared if needed and the selected folder is automatically added to Accessible Folders list. It's recommended to add your favorite folders.";
+
+"uDa-CM-HQ4.title" = "Accessible Folders…";
