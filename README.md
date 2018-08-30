@@ -1,6 +1,8 @@
 # Movist_zh
 Movist 2.x中文语言支持
 
+![zh_CN](https://github.com/datou1996/Movist_zh/blob/master/Movist%20Preferences.png)
+
 ## 翻译进度
 5%
 
