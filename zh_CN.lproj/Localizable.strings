@@ -1,0 +1,216 @@
+﻿//
+// Movist
+//
+// Copyright 2017. Movist all rights reserved.
+//
+
+////////////////////////////////////////////////////////////////////////////////
+// Property
+
+"URL > Text Encoding"   = "Text Encoding";
+"URL > Show in Finder"  = "Show in Finder";
+"URL > Remove File"     = "Remove File";
+
+"Media > Size"      = "Size";
+"Media > Duration"  = "Duration";
+"Media > Streaming" = "Streaming";
+"Media > Quality"   = "Quality";
+"Media > Decoder"   = "Decoder";
+
+"Track > Mono"      = "Mono";
+"Track > Stereo"    = "Stereo";
+"Track > pg Ch"     = "%g Ch.";
+"Track > Embedded"  = "Embedded";
+
+"Video > Keep Current Size" = "Keep Current Size";
+
+////////////////////////////////////////////////////////////////////////////////
+// Open Panel
+
+"OpenPanel > AppSandboxInfo" = "Press [Open] button to find series and subtitles in this folder.\nThis operation will get PERMANENT access and add to \"Accessible Folders\" in Preferences.";
+"OpenPanel > Choose media files." = "Choose media file(s).";
+"OpenPanel > Choose audio files." = "Choose audio file(s).";
+"OpenPanel > Choose subtitle files." = "Choose subtitle file(s).";
+
+////////////////////////////////////////////////////////////////////////////////
+// Control Panel
+
+"ControlPanel > Filters > Click button to add." = "Click button to add. ↗︎";
+
+////////////////////////////////////////////////////////////////////////////////
+// Alert
+
+"Alert > Add to Accessible Folders?" = "Do you want to add to \"Accessible Folders\" in Preferences?";
+
+////////////////////////////////////////////////////////////////////////////////
+// Menu
+
+"Menu > Remove Selected" = "Remove Selected";
+
+"Menu > Add External Files…" = "Add External Files…";
+"Menu > Remove External File" = "Remove External File";
+
+////////////////////////////////////////////////////////////////////////////////
+// Button
+
+"Button > OK"       = "OK";
+"Button > Cancel"   = "Cancel";
+
+"Button > Open"     = "Open";
+"Button > Save"     = "Save";
+"Button > Change"   = "Change";
+"Button > Add"      = "Add";
+
+////////////////////////////////////////////////////////////////////////////////
+// State
+
+"State > N/A"       = "N/A";
+"State > Auto"      = "Auto";
+"State > Unknown"   = "Unknown";
+
+"State > On"    = "On";
+"State > Off"   = "Off";
+
+"State > None"          = "None";
+"State > No title"      = "No title";
+"State > No track"      = "No track";
+"State > No content"    = "No content";
+
+"State > Loading…"      = "Loading…";
+"State > Already Added" = "Already Added";
+"State > Autodetected"  = "Autodetected";
+"State > Failed"        = "Failed";
+"State > Muted"         = "Muted";
+
+"State > Initializing playlist…"    = "Initializing playlist…";
+"State > Adding files to playlist…" = "Adding files to playlist…";
+"State > Media not found"           = "Media not found";
+"State > %ld items added"           = "%ld items added";
+"State > No filtered item"          = "No filtered item";
+
+"State > Fetching URL…"                 = "Fetching URL…";
+"State > Updating youtube-dl…"          = "Updating youtube-dl…";
+"State > Opening with %@…"              = "Opening with %@…";
+"State > Loading embedded fonts…"       = "Loading embedded fonts…";
+"State > Loading embedded subtitles…"   = "Loading embedded subtitles…";
+"State > Loading remote subtitles…"     = "Loading remote subtitles…";
+"State > Unarchiving…"                  = "Unarchiving…";
+"State > Changing video quality to %@…" = "Changing video quality to %@…";
+
+"State > Select track"      = "Select Track";
+"State > Deselect track"    = "Deselect Track";
+
+"State > Seek to"           = "Seek to";
+
+
+
+////////////////////////////////////////////////////////////////////////////////
+// Playlist.RepeatMode
+
+"Playlist.RepeatMode.off"   = "Off";
+"Playlist.RepeatMode.all"   = "All";
+"Playlist.RepeatMode.one"   = "One";
+
+////////////////////////////////////////////////////////////////////////////////
+// FillingType
+
+"FillingType.crop"      = "Crop";
+"FillingType.stretch"   = "Stretch";
+
+////////////////////////////////////////////////////////////////////////////////
+// AspectRatio
+
+"AspectRatio.dar"       = "Default (DAR)";
+"AspectRatio.sar"       = "Source (SAR)";
+"AspectRatio.r_133_1"   = "4 : 3 (SDTV)";
+"AspectRatio.r_178_1"   = "16 : 9 (HDTV)";
+"AspectRatio.r_166_1"   = "1.66 : 1 (European Movies)";
+"AspectRatio.r_185_1"   = "1.85 : 1 (VistaVision)";
+"AspectRatio.r_235_1"   = "2.35 : 1 (Cinemascope)";
+"AspectRatio.r_239_1"   = "2.39 : 1 (Cinemascope)";
+"AspectRatio.r_143_1"   = "1.43 : 1 (IMAX)";
+"AspectRatio.r_189_1"   = "1.89 : 1 (IMAX Digital)";
+
+////////////////////////////////////////////////////////////////////////////////
+// String.Encoding
+
+"Subtitle.Encoding.autodetect"  = "Autodetect";
+
+////////////////////////////////////////////////////////////////////////////////
+// PlayerLayer.SubtitleOSD.Location.Vertical
+
+"PlayerLayer.SubtitleOSD.Location.Vertical.screenTop"       = "Screen Top";
+"PlayerLayer.SubtitleOSD.Location.Vertical.upperLetterBox"  = "Upper Letter Box";
+"PlayerLayer.SubtitleOSD.Location.Vertical.videoTop"        = "Video Top";
+"PlayerLayer.SubtitleOSD.Location.Vertical.videoCenter"     = "Video Center";
+"PlayerLayer.SubtitleOSD.Location.Vertical.videoBottom"     = "Video Bottom";
+"PlayerLayer.SubtitleOSD.Location.Vertical.lowerLetterBox"  = "Lower Letter Box";
+"PlayerLayer.SubtitleOSD.Location.Vertical.screenBottom"    = "Screen Bottom";
+
+////////////////////////////////////////////////////////////////////////////////
+// PlayerLayer.OSDType
+
+"PlayerLayer.OSDType._2D"           = "2D";
+"PlayerLayer.OSDType.sideBySide"    = "3D (Side by Side)";
+"PlayerLayer.OSDType.topAndBottom"  = "3D (Top and Bottom)";
+
+////////////////////////////////////////////////////////////////////////////////
+// SubtitleSpeaker.Mode
+
+"SubtitleSpeaker.Mode.queued"       = "Queued";
+"SubtitleSpeaker.Mode.autosync"     = "Pause & Play";
+"SubtitleSpeaker.Mode.concurrent"   = "Concurrent";
+
+////////////////////////////////////////////////////////////////////////////////
+// MediaEndedAction
+
+"MediaEndedAction.none"     = "Do Nothing";
+"MediaEndedAction.close"    = "Close Media";
+"MediaEndedAction.openNext" = "Open Next Media";
+
+////////////////////////////////////////////////////////////////////////////////
+// PlaylistEndedAction
+
+"PlaylistEndedAction.none" = "Do Nothing";
+"PlaylistEndedAction.quit" = "Quit Movist";
+
+////////////////////////////////////////////////////////////////////////////////
+// MediaKitError
+
+"MediaKitError.mediaInitFailed"     = "Media Init Failed";
+"MediaKitError.mediaNotLoaded"      = "Media Not Loaded";
+"MediaKitError.mediaNotPlayable"    = "Media Not Playable";
+"MediaKitError.displayLinkFailed"   = "DisplayLink Failed";
+"MediaKitError.playerInUse"         = "Player In Use";
+"MediaKitError.invalidFormat"       = "Invalid Format";
+
+////////////////////////////////////////////////////////////////////////////////
+// Counting
+
+"Count > No item"            = "No item";
+"Count > 1 item"             = "1 item";
+"Count > %ld items"          = "%ld items";
+"Count > %ld"                = "%ld";
+"Count > %ld / %ld filtered" = "%1$ld / %2$ld filtered";
+
+////////////////////////////////////////////////////////////////////////////////
+// Etc.
+
+"Default" = "Default";
+
+"Letter Box > Default"      = "Never";
+"Letter Box > 1 Line"       = "1 Line";
+"Letter Box > %ld Lines"    = "%ld Lines";
+
+"%g words/min." = "%g words/min.";
+
+////////////////////////////////////////////////////////////////////////////////
+// Localizable Preferences
+
+"UserDefaults.userLanguageIdentifiers" = "EN,US,Eng,ENCC";
+
+// TEST
+
+"Choose Movist v1" = "This is a beta version for Movist users.\nChoose the installed Movist 1.4.1 or later. (Required)";
+"TestError.inaccessible" = "Installed Movist not found.\nDownload Movist from App Store and then try again.";
+"TestError.invalid" = "Installed Movist is not valid.";
