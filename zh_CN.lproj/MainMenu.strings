@@ -7,50 +7,50 @@
 ////////////////////////////////////////////////////////////////////////////////
 // Main Menu > Movist
 
-"5kV-Vb-QxS.title"  = "About Movist";
+"5kV-Vb-QxS.title"  = "关于 Movist";
 //                          -----------
-"BOF-NM-1cW.title"          = "Preferences…";
+"BOF-NM-1cW.title"          = "偏好设置…";
 //                          -----------
-"2gA-ET-Mam.title"          = "Visit Website";
-"2NJ-He-KtO.title"          = "Send Feedback…";
+"2gA-ET-Mam.title"          = "访问官网";
+"2NJ-He-KtO.title"          = "提交反馈…";
 //                          -----------
-"NMo-om-nkz.title"          = "Services";
+"NMo-om-nkz.title"          = "服务";
 //                          -----------
-"Olw-nP-bQN.title"          = "Hide Movist";
-"Vdr-fp-XzO.title"          = "Hide Others";
-"Kd2-mp-pUS.title"          = "Show All";
+"Olw-nP-bQN.title"          = "隐藏 Movist";
+"Vdr-fp-XzO.title"          = "隐藏其它";
+"Kd2-mp-pUS.title"          = "全部显示";
 //                          -----------
-"4sb-4s-VLi.title"          = "Quit Movist";
+"4sb-4s-VLi.title"          = "退出 Movist";
 
 ////////////////////////////////////////////////////////////////////////////////
 // Main Menu > File
 
-"bib-Uj-vzu.title"  = "File";
-"Was-JA-tGl.title"          = "New Window";
+"bib-Uj-vzu.title"  = "文件";
+"Was-JA-tGl.title"          = "新建窗口";
 //                          -----------
-"IAo-SY-fd9.title"          = "Open File…";
-"mJe-8k-BKX.title"          = "Open URL…";
-"64v-Eg-pdt.title"          = "Open Playlist";
-"tXI-mr-wws.title"          = "Open Recent";
+"IAo-SY-fd9.title"          = "打开文件…";
+"mJe-8k-BKX.title"          = "打开URL…";
+"64v-Eg-pdt.title"          = "打开播放列表";
+"tXI-mr-wws.title"          = "最近打开";
 //                          -----------
-"DVo-aG-piG.title"          = "Close";
+"DVo-aG-piG.title"          = "关闭";
 
 ////////////////////////////////////////////////////////////////////////////////
 // Main Menu > Edit
 
-"W48-6f-4Dl.title"  = "Edit";
-"uRl-iY-unG.title"          = "Cut";
-"x3v-GG-iWU.title"          = "Copy";
-"gVA-U4-sdL.title"          = "Paste";
-"pa3-QI-u2k.title"          = "Delete";
-"Ruw-6m-B2m.title"          = "Select All";
+"W48-6f-4Dl.title"  = "编辑";
+"uRl-iY-unG.title"          = "剪切";
+"x3v-GG-iWU.title"          = "复制";
+"gVA-U4-sdL.title"          = "粘贴";
+"pa3-QI-u2k.title"          = "删除";
+"Ruw-6m-B2m.title"          = "全部选择";
 //                          -----------
-"HGN-bu-e01.title"          = "Find";
+"HGN-bu-e01.title"          = "发现";
 
 ////////////////////////////////////////////////////////////////////////////////
 // Main Menu > Media
 
-"UqO-xH-EGD.title"  = "Media";
+"UqO-xH-EGD.title"  = "媒体";
 //                          = "<title>";
 //                          -----------
 //                          = "<url #>";
@@ -66,7 +66,7 @@
 ////////////////////////////////////////////////////////////////////////////////
 // Main Menu > Video
 
-"a6x-WO-gWW.title"  = "Video";
+"a6x-WO-gWW.title"  = "视频";
 //   {Shared}               = "Tracks";
 //                          = "<track #>";
 //                          -----------
@@ -117,7 +117,7 @@
 ////////////////////////////////////////////////////////////////////////////////
 // Main Menu > Audio
 
-"wLm-hs-q6p.title"  = "Audio";
+"wLm-hs-q6p.title"  = "音频";
 //   {Shared}               = "Tracks";
 //                          = "<track #>";
 //                          -----------
@@ -151,7 +151,7 @@
 ////////////////////////////////////////////////////////////////////////////////
 // Main Menu > Subtitle
 
-"bpH-J9-sWo.title"  = "Subtitle";
+"bpH-J9-sWo.title"  = "字幕";
 //   {Shared}               = "Tracks";
 //                          = "<track #>";
 //                          -----------
@@ -186,7 +186,7 @@
 ////////////////////////////////////////////////////////////////////////////////
 // Main Menu > Playback
 
-"xVh-tl-AZg.title"  = "Playback";
+"xVh-tl-AZg.title"  = "回放";
 //                          = "<current time (fps)>";
 //                          -----------
 "Playback > Play"           = "Play";
@@ -231,7 +231,7 @@
 ////////////////////////////////////////////////////////////////////////////////
 // Main Menu > Playlist
 
-"0NE-cK-yVd.title"  = "Playlist";
+"0NE-cK-yVd.title"  = "播放列表";
 //                          = "<title>";
 //                          -----------
 "gsD-jf-w7s.title"          = "Shuffle";
@@ -257,7 +257,7 @@
 ////////////////////////////////////////////////////////////////////////////////
 // Main Menu > Window
 
-"Td7-aD-5lo.title"  = "Window";
+"Td7-aD-5lo.title"  = "窗口";
 "OY7-WF-poV.title"          = "Minimize";
 "R4o-n2-Eq4.title"          = "Zoom";
 "QQr-Rv-oZq.title"          = "Keep on top of all other windows";
@@ -277,7 +277,7 @@
 ////////////////////////////////////////////////////////////////////////////////
 // Main Menu > Help
 
-"F2S-fz-NVQ.title"  = "Help";
+"F2S-fz-NVQ.title"  = "帮助";
 "FKE-Sm-Kum.title"          = "Movist Help";
 
 ////////////////////////////////////////////////////////////////////////////////
