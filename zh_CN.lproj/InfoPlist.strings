@@ -1,0 +1,16 @@
+﻿//
+// Movist
+//
+// Copyright 2017. Movist all rights reserved.
+//
+
+/* Localized versions of Info.plist keys */
+
+CFBundleName = "Movist";		/* This is for the localized "short" name in the app menu bar */
+CFBundleDisplayName = "Movist";	/* This is for the localized "long" name in Finder, etc */
+
+NSHumanReadableCopyright = "Copyright 2018. Movist all rights reserved.";
+
+/* Help book localization */
+
+CFBundleHelpBookName = "Movist Help";
