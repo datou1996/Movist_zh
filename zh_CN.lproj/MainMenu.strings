@@ -58,10 +58,10 @@
 //                          = "<track #>";
 //                                  = "<property #>";
 //                          -----------
-"8VG-zW-4wb.title"          = "Add Audio Files…";
-"6M9-c0-aDI.title"          = "Add Subtitle Files…";
+"8VG-zW-4wb.title"          = "添加音频文件…";
+"6M9-c0-aDI.title"          = "添加字幕文件…";
 //                          -----------
-"RSP-lu-I8z.title"          = "Close Media";
+"RSP-lu-I8z.title"          = "关闭媒体";
 
 ////////////////////////////////////////////////////////////////////////////////
 // Main Menu > Video
@@ -75,44 +75,44 @@
 //                          -----------
 //                          = "<1920 x 1080 (100.0%)>";
 //                          -----------
-"Video > Enter Full Screen"         = "Enter Full Screen";
-"Video > Exit Full Screen"          = "Exit Full Screen";
-"Video > Enter Desktop Background"  = "Enter Desktop Background";
-"Video > Exit Desktop Background"   = "Exit Desktop Background";
+"Video > Enter Full Screen"         = "进入全屏";
+"Video > Exit Full Screen"          = "退出全屏";
+"Video > Enter Desktop Background"  = "进入桌面背景";
+"Video > Exit Desktop Background"   = "退出桌面背景";
 //                          -----------
-"yg4-IU-neA.title"          = "Half Size";
-"4yg-7s-B1O.title"          = "Actual Size";
-"ctp-tB-bNT.title"          = "Double Size";
-"UY5-Y6-a1c.title"          = "User Size";
-"m56-HS-kgn.title"          = "Fit to Screen";
+"yg4-IU-neA.title"          = "一半尺寸";
+"4yg-7s-B1O.title"          = "原始尺寸";
+"ctp-tB-bNT.title"          = "双倍尺寸";
+"UY5-Y6-a1c.title"          = "用户自定义尺寸";
+"m56-HS-kgn.title"          = "适合屏幕";
 //                          -----------
-"RqF-GH-Egc.title"          = "Increase Size";
-"x5s-nd-FaU.title"          = "Decrease Size";
-"UqP-Ig-spr.title"          = "Zoom In";
-"g1E-A4-DKp.title"          = "Zoom Out";
+"RqF-GH-Egc.title"          = "增大尺寸";
+"x5s-nd-FaU.title"          = "减小尺寸";
+"UqP-Ig-spr.title"          = "放大";
+"g1E-A4-DKp.title"          = "缩小";
 //                          -----------
-"NU2-M6-Ebs.title"          = "Move Zoom Left";
-"xMa-Xi-ZWh.title"          = "Move Zoom Right";
-"llJ-V5-Tde.title"          = "Move Zoom Up";
-"YnX-oO-vSz.title"          = "Move Zoom Down";
-"2W7-2w-6SZ.title"          = "Quit Zoom";
+"NU2-M6-Ebs.title"          = "向左移动缩放";
+"xMa-Xi-ZWh.title"          = "向右移动缩放";
+"llJ-V5-Tde.title"          = "向上移动缩放";
+"YnX-oO-vSz.title"          = "向下移动缩放";
+"2W7-2w-6SZ.title"          = "退出缩放";
 //                          -----------
-"DId-jR-I3o.title"          = "Fill Screen";
-"hpf-er-IjJ.title"          = "Aspect Ratio";
+"DId-jR-I3o.title"          = "填充屏幕";
+"hpf-er-IjJ.title"          = "宽高比";
 //                                  = "<aspect ratio #>";
 //                          -----------
-"Uve-QB-IKO.title"          = "Rotate Left";
-"qIy-fr-bAv.title"          = "Rotate Right";
-"xfc-1p-wtP.title"          = "Flip Horizontal";
-"abk-gB-dFc.title"          = "Flip Vertical";
-"Ml3-RN-wu5.title"          = "Revert Transform";
+"Uve-QB-IKO.title"          = "向左旋转";
+"qIy-fr-bAv.title"          = "向右旋转";
+"xfc-1p-wtP.title"          = "水平翻转";
+"abk-gB-dFc.title"          = "垂直翻转";
+"Ml3-RN-wu5.title"          = "还原变化";
 //                          -----------
-"Sxi-LV-tlu.title"          = "Filters";
+"Sxi-LV-tlu.title"          = "过滤器";
 //                                  = "<filter #>";
 //                                  -----------
-"MT4-07-aCr.title"                  = "Remove All";
+"MT4-07-aCr.title"                  = "全部移除";
 //                          -----------
-"W7q-2x-Wsj.title"          = "Save Screenshot";
+"W7q-2x-Wsj.title"          = "保存截图";
 
 ////////////////////////////////////////////////////////////////////////////////
 // Main Menu > Audio
@@ -124,13 +124,13 @@
 //   {Shared}               = "Select Next Track";
 //   {Shared}               = "Select Previous Track";
 //                          -----------
-"nlw-bs-4xB.title"          = "Sync.";
+"nlw-bs-4xB.title"          = "同步.";
 "kQI-PG-l3R.title"          = "Pull";
 "3Vn-Oq-Bnx.title"          = "Push";
 "0aM-Qc-uAt.title"          = "Revert";
 //                          -----------
-"3HM-iA-90J.title"          = "Equalizer";
-"0JF-ha-JBt.title"                  = "Off";
+"3HM-iA-90J.title"          = "均衡器";
+"0JF-ha-JBt.title"                  = "关闭";
 //                                  -----------
 "mkT-Jq-BKk.title"                  = "Manual";
 //                                  -----------
@@ -140,13 +140,13 @@
 "E4x-2t-BJQ.title"          = "Output Device";
 //                                  = "<device #>";
 //                          -----------
-"xcX-AJ-BmL.title"          = "Volume";
-"Rht-jZ-pW8.title"          = "Increase Volume";
-"7BM-oh-MMZ.title"          = "Increase Volume (Finetune)";
-"Kj1-7K-W50.title"          = "Decrease Volume";
-"pW8-2t-dnQ.title"          = "Decrease Volume (Finetune)";
-"Audio > Mute"              = "Mute";
-"Audio > Unmute"            = "Unmute";
+"xcX-AJ-BmL.title"          = "音量";
+"Rht-jZ-pW8.title"          = "增大音量";
+"7BM-oh-MMZ.title"          = "增大音量 (微调)";
+"Kj1-7K-W50.title"          = "减小音量";
+"pW8-2t-dnQ.title"          = "减小音量 (微调)";
+"Audio > Mute"              = "静音";
+"Audio > Unmute"            = "取消静音";
 
 ////////////////////////////////////////////////////////////////////////////////
 // Main Menu > Subtitle
@@ -167,9 +167,9 @@
 "zUf-XF-OPq.title"          = "Speech";
 "lal-cJ-fEJ.title"          = "Voice";
 //                                  = "<voice #>";
-"Cmm-9P-fQY.title"          = "Volume";
-"w7p-Wf-HB0.title"                  = "Increase Volume";
-"blK-pW-zc8.title"                  = "Decrease Volume";
+"Cmm-9P-fQY.title"          = "音量";
+"w7p-Wf-HB0.title"                  = "增大音量";
+"blK-pW-zc8.title"                  = "减小音量";
 "2h4-Co-jje.title"          = "Speed";
 "mbM-Ab-WHd.title"                  = "Fast";
 "YUL-rG-QdC.title"                  = "Normal";
@@ -178,7 +178,7 @@
 "5db-lw-xB5.title"                  = "Increase Speed";
 "Y8C-3L-dIm.title"                  = "Decrease Speed";
 //                          -----------
-"0Ir-Pi-Pkn.title"          = "Sync.";
+"0Ir-Pi-Pkn.title"          = "同步.";
 "dRv-hF-HgK.title"          = "Pull";
 "e0f-pR-03I.title"          = "Push";
 "vjB-uv-nKd.title"          = "Revert";
@@ -189,30 +189,30 @@
 "xVh-tl-AZg.title"  = "回放";
 //                          = "<current time (fps)>";
 //                          -----------
-"Playback > Play"           = "Play";
-"Playback > Pause"          = "Pause";
+"Playback > Play"           = "播放";
+"Playback > Pause"          = "暂停";
 //                          -----------
-"RoS-JZ-YKy.title"          = "Beginning";
-"0Qd-kI-1hr.title"          = "End";
+"RoS-JZ-YKy.title"          = "开始";
+"0Qd-kI-1hr.title"          = "结束";
 //                          -----------
-"Playback > Forward %ld sec."  = "Forward %ld sec.";
-"Playback > Backward %ld sec." = "Backward %ld sec.";
+"Playback > Forward %ld sec."  = "前进 %ld 秒.";
+"Playback > Backward %ld sec." = "后退 %ld 秒.";
 //                          -----------
-"I6v-uz-sMw.title"          = "Forward Subtitle";
-"mxg-9O-KX9.title"          = "Backward Subtitle";
+"I6v-uz-sMw.title"          = "字幕快进";
+"mxg-9O-KX9.title"          = "字幕延迟";
 //                          -----------
-"BcL-zM-Y08.title"          = "Chapters";
+"BcL-zM-Y08.title"          = "章节";
 //                                  = "<chapter #>";
-"DtV-Wo-l7K.title"          = "Forward Chapter";
-"nc4-rK-BsG.title"          = "Backward Chapter";
+"DtV-Wo-l7K.title"          = "跳至下个章节位置";
+"nc4-rK-BsG.title"          = "跳至上个章节位置";
 //                          -----------
-"Q4U-9c-1OQ.title"          = "Bookmarks";
+"Q4U-9c-1OQ.title"          = "书签";
 //                                  = "<bookmark #>
 //                                  -----------
-"i8b-RJ-pcC.title"                  = "Add Current";
-"ug0-2R-oeV.title"                  = "Edit…";
-"JNX-3l-M5m.title"          = "Forward Bookmark";
-"NPJ-dn-hah.title"          = "Backward Bookmark";
+"i8b-RJ-pcC.title"                  = "添加当前";
+"ug0-2R-oeV.title"                  = "编辑…";
+"JNX-3l-M5m.title"          = "跳至下个书签位置";
+"NPJ-dn-hah.title"          = "跳至上个书签位置";
 //                          -----------
 "deb-Xv-93g.title"          = "Forward Frame";
 "E5F-s5-Ya2.title"          = "Backward Frame";
@@ -258,11 +258,11 @@
 // Main Menu > Window
 
 "Td7-aD-5lo.title"  = "窗口";
-"OY7-WF-poV.title"          = "Minimize";
-"R4o-n2-Eq4.title"          = "Zoom";
-"QQr-Rv-oZq.title"          = "Keep on top of all other windows";
+"OY7-WF-poV.title"          = "最小化";
+"R4o-n2-Eq4.title"          = "缩放";
+"QQr-Rv-oZq.title"          = "窗口置顶";
 //                          -----------
-"6ct-mQ-EeZ.title"          = "Control Panel";
+"6ct-mQ-EeZ.title"          = "控制面板";
 //   {Shared}               = "Media";
 //   {Shared}               = "Video";
 //   {Shared}               = "Audio";
@@ -278,12 +278,12 @@
 // Main Menu > Help
 
 "F2S-fz-NVQ.title"  = "帮助";
-"FKE-Sm-Kum.title"          = "Movist Help";
+"FKE-Sm-Kum.title"          = "Movist 帮助";
 
 ////////////////////////////////////////////////////////////////////////////////
 // Shared
 
-"{Shared} > Tracks"             = "Tracks";
+"{Shared} > Tracks"             = "轨道";
 
 "{Shared} > Select Next Track"      = "Select Next Track";
 "{Shared} > Select Previous Track"  = "Select Previous Track";
