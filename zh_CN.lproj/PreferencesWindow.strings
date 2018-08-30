@@ -7,55 +7,55 @@
 ////////////////////////////////////////////////////////////////////////////////
 // Preferences
 
-"QvC-M9-y7g.title" = "Preferences";
+"QvC-M9-y7g.title" = "偏好设置";
 
 ////////////////////////////////////////////////////////////////////////////////
 // Preferences > Tool Bar
 
-"3ba-PW-XtU.label" = "General";
-"3ba-PW-XtU.paletteLabel" = "General";
+"3ba-PW-XtU.label" = "通用";
+"3ba-PW-XtU.paletteLabel" = "通用";
 
-"VF0-Xz-xax.label" = "Media";
-"VF0-Xz-xax.paletteLabel" = "Media";
+"VF0-Xz-xax.label" = "媒体";
+"VF0-Xz-xax.paletteLabel" = "媒体";
 
-"Bfr-Eb-x6Y.label" = "Video";
-"Bfr-Eb-x6Y.paletteLabel" = "Video";
+"Bfr-Eb-x6Y.label" = "视频";
+"Bfr-Eb-x6Y.paletteLabel" = "视频";
 
-"eRF-Nh-aqz.label" = "Audio";
-"eRF-Nh-aqz.paletteLabel" = "Audio";
+"eRF-Nh-aqz.label" = "音频";
+"eRF-Nh-aqz.paletteLabel" = "音频";
 
-"nJC-dU-1Hc.label" = "Subtitle";
-"nJC-dU-1Hc.paletteLabel" = "Subtitle";
+"nJC-dU-1Hc.label" = "字幕";
+"nJC-dU-1Hc.paletteLabel" = "字幕";
 
-"Ag0-g3-4Nf.label" = "Playback";
-"Ag0-g3-4Nf.paletteLabel" = "Playback";
+"Ag0-g3-4Nf.label" = "回放";
+"Ag0-g3-4Nf.paletteLabel" = "回放";
 
-"8SN-To-Ll0.label" = "Playlist";
-"8SN-To-Ll0.paletteLabel" = "Playlist";
+"8SN-To-Ll0.label" = "播放列表";
+"8SN-To-Ll0.paletteLabel" = "播放列表";
 
 ////////////////////////////////////////////////////////////////////////////////
 // Preferences > General
 
-"GJ4-s9-yJ0.label" = "General";
-"IqD-up-Xtd.label" = "Full Screen";
+"GJ4-s9-yJ0.label" = "通用";
+"IqD-up-Xtd.label" = "全屏显示";
 
 // Preferences > General > General
-"H3K-fD-IUm.title" = "Theme:";
-"aRg-YA-4Fb.title" =        "Dark";
-"bnR-hh-TWh.title" =        "Light";
-"5ye-ay-M1n.title" = "Transparent title-bar and controllers";
+"H3K-fD-IUm.title" = "主题:";
+"aRg-YA-4Fb.title" =        "黑暗";
+"bnR-hh-TWh.title" =        "明亮";
+"5ye-ay-M1n.title" = "标题栏和控制器透明化";
 
-"LRe-9y-jWu.title" = "Show pushpin button in title-bar";
+"LRe-9y-jWu.title" = "在标题栏中显示置顶按钮";
 
-"aoR-i8-RZ2.title" = "Create new window when open file";
-"h5V-9x-h2J.title" = "Quit when last window closed";
-"eGo-iU-MSv.title" = "Restore windows (relaunch needed)";
+"aoR-i8-RZ2.title" = "打开文件时创建新窗口";
+"h5V-9x-h2J.title" = "最后一个窗口关闭时退出";
+"eGo-iU-MSv.title" = "恢复窗口 (需要重新启动)";
 
-"9Sr-6k-sO6.title" = "Use up/down arrow keys to select in playlist panel";
-"I8V-Tt-4Y0.title" = "Use return/enter keys to open in playlist panel";
-"qbt-TJ-C0w.title" = "Use esc key to close control panel";
+"9Sr-6k-sO6.title" = "使用上/下箭头键在播放列表面板中选择";
+"I8V-Tt-4Y0.title" = "使用return/enter键在播放列表面板中打开";
+"qbt-TJ-C0w.title" = "使用esc键关闭控制面板";
 
-"c8U-HU-3wJ.title" = "Screenshot save-path:";
+"c8U-HU-3wJ.title" = "截屏保存路径:";
 
 // Preferences > General > Full Screen
 
