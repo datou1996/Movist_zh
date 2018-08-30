@@ -59,41 +59,41 @@
 
 // Preferences > General > Full Screen
 
-"dUH-KS-bbz.title" = "Start play when enter full screen";
-"I39-g1-T3C.title" = "Pause when exit full screen";
+"dUH-KS-bbz.title" = "进入全屏时开始播放";
+"I39-g1-T3C.title" = "退出全屏时停止播放";
 
 "AzE-R6-J3G.title" = "Pause & resume play when app switched";
 
-"IxN-5t-3LW.title" = "Show system time";
-"czy-gz-Fd3.title" = "Show play time";
+"IxN-5t-3LW.title" = "显示系统时间";
+"czy-gz-Fd3.title" = "显示播放时长";
 
-"IWS-wN-Lu3.title" = "Black out other screens";
+"IWS-wN-Lu3.title" = "暗化其它屏幕";
 
 ////////////////////////////////////////////////////////////////////////////////
 // Preferences > Media
 
-"IZA-MH-aKB.label" = "Open";
+"IZA-MH-aKB.label" = "打开";
 
 // Preferences > Media > Open
 
-"4DR-S4-FYU.title" = "Audio-visual language:";
-"fAb-tU-6gT.title" = "Subtitle language:";
-"qOs-VL-m20.title" = "Don't use subtitle if same language audio is selected";
-"v50-Uc-Bcm.title" = "Select first subtitle if specified language not found";
+"4DR-S4-FYU.title" = "音频语言:";
+"fAb-tU-6gT.title" = "字幕语言:";
+"qOs-VL-m20.title" = "如果选择了相同语言的音频，请勿使用字幕";
+"v50-Uc-Bcm.title" = "如果找不到指定的语言，请选择第一个字幕";
 
-"YUI-Eh-sqR.title" = "Video size:";
-"rQr-oP-SnT.title" = "for windowed";
-"RaS-J2-RW0.title" = "for full screen";
-"8sR-Uk-KrT.title" = "Fill screen";
+"YUI-Eh-sqR.title" = "视频尺寸:";
+"rQr-oP-SnT.title" = "窗口模式";
+"RaS-J2-RW0.title" = "全屏模式";
+"8sR-Uk-KrT.title" = "填充屏幕";
 
-"Z4T-bG-taB.title" = "Video filter:";
+"Z4T-bG-taB.title" = "视频滤镜:";
 
-"ZiE-R2-Bam.title" = "Audio equalizer:";
+"ZiE-R2-Bam.title" = "音频均衡器:";
 
-"LlQ-dh-uu1.title" = "Subtitle speech speed:";
+"LlQ-dh-uu1.title" = "字幕语速:";
 
-"93r-zZ-WiV.title" = "Enter full screen";
-"csL-vn-v2N.title" = "Start play";
+"93r-zZ-WiV.title" = "进入全屏";
+"csL-vn-v2N.title" = "开始播放";
 
 ////////////////////////////////////////////////////////////////////////////////
 // Preferences > Video
